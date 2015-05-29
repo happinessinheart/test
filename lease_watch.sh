@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Ver 1.0 ,Maintainaned by ailms@qq.com
+# Ver 2.0 ,  
 
 #
 # this script is used to watch the /var/lib/dhcp/dhcpd.leases
