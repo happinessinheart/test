@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Ver 2.0 ,  
+# Ver 2.0   
 
 #
 # this script is used to watch the /var/lib/dhcp/dhcpd.leases
